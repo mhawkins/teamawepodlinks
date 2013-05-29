@@ -1,0 +1,30 @@
+UI Links
+=========
+UI Patterns - http://ui-patterns.com
+Mobile UI Patterns - http://pttrns.com
+Six UX - http://sixux.com
+App Icons - http://iicns.com
+iWantHue - http://tools.medialab.sciences-po.fr/iwanthue/index.php
+
+Media Resources
+===============
+Free background music - http://incompetech.com
+
+iOS Links
+=========
+CocoaPods (rubygems equivalent) - http://cocoapods.org
+NSHipster (tutorials for obscure iOS libraries) - http://nshipster.com
+Apple Developer Videos - https://developer.apple.com/videos
+13 Things You Must Know When Starting Out in iOS/Mac Development (inspiration) - http://www.appdesignvault.com/start-advice/
+Helios (an extensible open-source mobile backend framework) - http://helios.io
+Universal Static Library creation - http://www.cocoanetics.com/2010/04/universal-static-libraries/
+ditto - http://red-glasses.com/index.php/tutorials/xcode4-make-a-library-in-one-file-that-works-on-both-device-and-simulator/
+
+3D Processing / Game Engines
+=================
+A Slower Speed of Light - http://gamelab.mit.edu/games/a-slower-speed-of-light/
+Open Frameworks - http://www.openframeworks.cc
+
+MySQL
+=====
+Geospatial search in MySQL - http://www.scribd.com/doc/2569355/Geo-Distance-Search-with-MySQL
