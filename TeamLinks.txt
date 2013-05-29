@@ -5,6 +5,7 @@ Mobile UI Patterns - http://pttrns.com
 Six UX - http://sixux.com
 App Icons - http://iicns.com
 iWantHue - http://tools.medialab.sciences-po.fr/iwanthue/index.php
+Customizable Icon Font Sets - http://fontello.com/
 
 Media Resources
 ===============
