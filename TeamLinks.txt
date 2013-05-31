@@ -26,6 +26,16 @@ ditto - http://red-glasses.com/index.php/tutorials/xcode4-make-a-library-in-one-
 A Slower Speed of Light - http://gamelab.mit.edu/games/a-slower-speed-of-light/
 Open Frameworks - http://www.openframeworks.cc
 
+Creative Coding
+===============
+Processing - http://processing.org/
+Open Frameworks - http://openframeworks.cc/
+
+Hardware hacking
+================
+Arduino - httpL//arduino.org/
+Raspberry Pi - http://www.raspberrypi.org/
+
 MySQL
 =====
 Geospatial search in MySQL - http://www.scribd.com/doc/2569355/Geo-Distance-Search-with-MySQL
